@@ -6,14 +6,16 @@ In this Data Science project, we performed image classification on a family. Whe
   2. Madhu
   3. Manju
   4. Puneeth
-##Here is the folder structure,
+
+## Here is the folder structure,
 
  * UI : This contains ui website code
  * server: Python flask server
  * model: Contains python notebook for model building
  * google_image_scrapping: code to scrap google for images
  * images_dataset: Dataset used for our model training
-##Technologies used in this project,
+
+## Technologies used in this project,
 
  * Python
  * Numpy and OpenCV for data cleaning
