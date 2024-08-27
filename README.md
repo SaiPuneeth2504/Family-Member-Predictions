@@ -1,2 +1,4 @@
 # Family-Member-Predictions
-Created a Classification model which will classify the given image among the family tree and the probability of a new person's traits  with a member of the family 
+![Screenshot (551)](https://github.com/user-attachments/assets/053dca28-069d-453b-ab31-e86122ffab8b)
+
+
